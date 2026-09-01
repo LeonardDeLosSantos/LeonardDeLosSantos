@@ -40,7 +40,8 @@ A driven and technically adept professional is pursuing a help desk role to laun
 <summary><strong>Course 1: Networking I</strong></summary>
 
 https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192888012
-
+https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192406587
+https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192397723
 </details>
 
 <details>
@@ -53,7 +54,8 @@ https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/1928
 <details>
 <summary><strong>Course 3: Operating Systems I</strong></summary>
 
-*No labs added yet.*
+https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192411106
+
 
 </details>
 
