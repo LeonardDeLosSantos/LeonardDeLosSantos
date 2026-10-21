@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22LeonardDeLosSantos%22%2C%22name%22%3A%22Leonard%20De%20Los%20Santos%22%2C%22email%22%3A%22LDeLosSantos0787%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22A%20driven%20and%20technically%20adept%20professional%20is%20pursuing%20a%20help%20desk%20role%20to%20launch%20a%20long-term%20IT%20career%2C%20backed%20by%20hands-on%20training%20from%20MyComputerCareer.%20I%20combine%20formal%20education%20with%20extensive%20practical%20experience%20building%20custom%20PCs%20and%20managing%20a%20complex%20home%20network%20environment.%20My%20active%20lab%20environment%20features%20enterprise-grade%20hardware%2C%20including%20Cisco%204330%20routers%20and%20Cisco%20SG200%20switches.%20I%20also%20manage%20a%20Proxmox%20hypervisor%20hosting%20a%20TrueNAS%20virtual%20machine%20and%20an%20Ubuntu%20Linux%20server%20running%20Docker%20containers.%20I%20am%20actively%20studying%20for%20CompTIA%20Network%2B%20and%20Security%2B%20cert%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22BIOS%2FUEFI%22%2C%22Computer%20Hardware%22%2C%22Troubleshooting%22%2C%22Storage%20Devices%22%2C%22Peripheral%20Devices%22%2C%22Command%20Line%22%2C%22Wi-Fi%22%2C%22Routing%20%26%20Switching%22%2C%22VLANs%22%2C%22Firewalls%22%2C%22Linux%20CLI%22%2C%22Docker%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22LeonardDeLosSantos%22%2C%22name%22%3A%22Leonard%20De%20Los%20Santos%22%2C%22email%22%3A%22LDeLosSantos0787%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22A%20driven%20and%20technically%20adept%20professional%20is%20pursuing%20a%20help%20desk%20role%20to%20launch%20a%20long-term%20IT%20career%2C%20backed%20by%20hands-on%20training%20from%20MyComputerCareer.%20I%20combine%20formal%20education%20with%20extensive%20practical%20experience%20building%20custom%20PCs%20and%20managing%20a%20complex%20home%20network%20environment.%20My%20active%20lab%20environment%20features%20enterprise-grade%20hardware%2C%20including%20Cisco%204330%20routers%20and%20Cisco%20SG200%20switches.%20I%20also%20manage%20a%20Proxmox%20hypervisor%20hosting%20a%20TrueNAS%20virtual%20machine%20and%20an%20Ubuntu%20Linux%20server%20running%20Docker%20containers.%20I%20am%20actively%20studying%20for%20CompTIA%20Network%2B%20and%20Security%2B%20cert%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22BIOS%2FUEFI%22%2C%22Computer%20Hardware%22%2C%22Troubleshooting%22%2C%22Storage%20Devices%22%2C%22Peripheral%20Devices%22%2C%22Command%20Line%22%2C%22Wi-Fi%22%2C%22Routing%20%26%20Switching%22%2C%22VLANs%22%2C%22Firewalls%22%2C%22Linux%20CLI%22%2C%22Docker%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Capture%20Day%204%20AI%20Tutor%20Prompt%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Capture%20Teachable%20Machine%20Learning%20Lab%20Link%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Capture%20MIT%20Playground%20File%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -30,7 +30,7 @@ A driven and technically adept professional is pursuing a help desk role to laun
 
 💻 Programming Languages & Tools: ![Linux CLI](https://img.shields.io/badge/Linux%20CLI-0969da?style=flat-square)
 
-☁️ Cloud & DevOps: ![Docker](https://img.shields.io/badge/Docker-0969da?style=flat-square) https://learn.microsoft.com/api/achievements/share/en-us/LeonardDeLosSantos-5941/XP8TKFHY?sharingId=1BEA027710F68F06 https://learn.microsoft.com/api/achievements/share/en-us/LeonardDeLosSantos-5941/4CMWUP2K?sharingId=1BEA027710F68F06
+☁️ Cloud & DevOps: ![Docker](https://img.shields.io/badge/Docker-0969da?style=flat-square)
 
 ---
 
@@ -39,23 +39,25 @@ A driven and technically adept professional is pursuing a help desk role to laun
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192888012
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192406587
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192397723
+*No labs added yet.*
+
 </details>
 
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Capture Day 4 AI Tutor Prompt | — | ✅ Complete | — |
+| Capture Teachable Machine Learning Lab Link | — | ✅ Complete | — |
+| Capture MIT Playground File | — | ✅ Complete | — |
 
 </details>
 
 <details>
 <summary><strong>Course 3: Operating Systems I</strong></summary>
 
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192411106
-
+*No labs added yet.*
 
 </details>
 
